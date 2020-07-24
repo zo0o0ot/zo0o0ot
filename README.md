@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- ![Image of personalized Octocat](./yaktocat.png) -->
+![Image of personalized Octocat](https://raw.githubusercontent.com/zo0o0ot/zo0o0ot/master/octocat.png)
 
 - 😄 Pronouns: He/him
 
