@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!-- ![Image of personalized Octocat](./yaktocat.png) -->
+
+- 😄 Pronouns: He/him
+
+
 <!--
 **zo0o0ot/zo0o0ot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
