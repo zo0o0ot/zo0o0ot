@@ -8,10 +8,9 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=zo0o0ot&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![@zo0o0ot's Holopin board](https://holopin.me/zo0o0ot)](https://holopin.io/@zo0o0ot)
 
 - 😄 Pronouns: He/him
-
-
 <!--
 **zo0o0ot/zo0o0ot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
